@@ -1,5 +1,5 @@
 # roll_dice
-<img src="https://github.com/prayogisholihul/RollDice/blob/master/Screenshot_1708172242.png" width="350" height="500">
+<img src="https://github.com/prayogisholihul/RollDice/blob/master/Screenshot_1708172242.png" width="350" height="800">
 A new Flutter project.
 
 ## Getting Started
