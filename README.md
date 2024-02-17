@@ -1,5 +1,5 @@
 # roll_dice
-![ScreenShot](https://github.com/prayogisholihul/RollDice/blob/master/Screenshot_1708172242.png)
+![ScreenShot](https://github.com/prayogisholihul/RollDice/blob/master/Screenshot_1708172242.png | width=100)
 A new Flutter project.
 
 ## Getting Started
